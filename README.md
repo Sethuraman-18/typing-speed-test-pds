@@ -22,7 +22,7 @@ This project is a typing speed test program implemented in the C programming lan
 
 ## Level menu
 
-![WhatsApp Image 2023-06-01 at 03 37 04](https://github.com/Sethuraman-18/typing-speed-test-pds/assets/135098633/c4a6672b-71a0-45f6-b0a1-8208d2e279fe)
+![WhatsApp Image 2023-06-01 at 03 37 03](https://github.com/Sethuraman-18/typing-speed-test-pds/assets/135098633/47cacec0-7c61-4c6e-9dd7-6e2b6b9faa9b)
 
 
 ## Easy mode
@@ -47,7 +47,8 @@ This project is a typing speed test program implemented in the C programming lan
 
 ## About us
 
-![WhatsApp Image 2023-06-01 at 03 37 04](https://github.com/Sethuraman-18/typing-speed-test-pds/assets/135098633/f735124b-c37f-40f4-ac8b-62d91f7659d6)
+![WhatsApp Image 2023-06-01 at 03 37 03](https://github.com/Sethuraman-18/typing-speed-test-pds/assets/135098633/10e59261-4a98-4cd2-bd6d-a363b419cf87)
+
 
 ## Features
 
