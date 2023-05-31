@@ -17,7 +17,7 @@ This project is a typing speed test program implemented in the C programming lan
 
 ## Time setup menu
 
-![WhatsApp Image 2023-06-01 at 03 37 04](https://github.com/Sethuraman-18/typing-speed-test-pds/assets/135098633/596fa1cd-ac21-41ca-9ea1-5fa3ecc108bd)
+![WhatsApp Image 2023-06-01 at 04 00 51](https://github.com/Sethuraman-18/typing-speed-test-pds/assets/135098633/1e46a8fa-bd34-4bb7-bc99-6940090228a0)
 
 
 ## Level menu
